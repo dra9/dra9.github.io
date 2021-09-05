@@ -1,0 +1,8 @@
+Origin: dra's repo
+Label: dra's repo
+Suite: stable
+Version: 1.0
+Codename: whoever
+Architectures: iphoneos-arm
+Components: main
+Description: ios
